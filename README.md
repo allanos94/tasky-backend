@@ -1,2 +1,3 @@
 # tasky-backend
-This is de backend of tasky. 
+This is the backend of tasky. An apllication to manage your tasks.
+Is based on Django and Django Rest Framework.
